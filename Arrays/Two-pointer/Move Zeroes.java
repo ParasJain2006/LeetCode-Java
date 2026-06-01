@@ -1,3 +1,4 @@
+#lc283
 class Solution {
     public void moveZeroes(int[] nums) {
         int current=0,zeros=0;
