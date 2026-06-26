@@ -43,14 +43,17 @@ The goal of this repository is to:
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Array
 |  |
 | ------- |
@@ -67,4 +70,8 @@ The goal of this repository is to:
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/ParasJain2006/LeetCode-Java/tree/master/1833-maximum-ice-cream-bars) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
