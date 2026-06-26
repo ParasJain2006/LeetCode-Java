@@ -44,6 +44,7 @@ The goal of this repository is to:
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0110-balanced-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -54,6 +55,7 @@ The goal of this repository is to:
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0110-balanced-binary-tree) |
 ## Array
 |  |
 | ------- |
@@ -74,4 +76,5 @@ The goal of this repository is to:
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
