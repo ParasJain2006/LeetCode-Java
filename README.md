@@ -47,6 +47,7 @@ The goal of this repository is to:
 | [0110-balanced-binary-tree](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0199-binary-tree-right-side-view) |
+| [0700-search-in-a-binary-search-tree](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -61,6 +62,7 @@ The goal of this repository is to:
 | [0110-balanced-binary-tree](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0199-binary-tree-right-side-view) |
+| [0700-search-in-a-binary-search-tree](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0700-search-in-a-binary-search-tree) |
 ## Array
 |  |
 | ------- |
@@ -88,4 +90,8 @@ The goal of this repository is to:
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0124-binary-tree-maximum-path-sum) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
