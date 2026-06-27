@@ -30,6 +30,7 @@ The goal of this repository is to:
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0001-two-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/ParasJain2006/LeetCode-Java/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
@@ -66,6 +67,7 @@ The goal of this repository is to:
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0001-two-sum) |
 | [1833-maximum-ice-cream-bars](https://github.com/ParasJain2006/LeetCode-Java/tree/master/1833-maximum-ice-cream-bars) |
 ## Greedy
 |  |
