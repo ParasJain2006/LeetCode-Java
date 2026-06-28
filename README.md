@@ -68,6 +68,7 @@ The goal of this repository is to:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1833-maximum-ice-cream-bars](https://github.com/ParasJain2006/LeetCode-Java/tree/master/1833-maximum-ice-cream-bars) |
 ## Greedy
 |  |
@@ -91,6 +92,7 @@ The goal of this repository is to:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Search Tree
 |  |
