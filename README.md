@@ -36,6 +36,7 @@ The goal of this repository is to:
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/ParasJain2006/LeetCode-Java/tree/master/1189-maximum-number-of-balloons) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ParasJain2006/LeetCode-Java/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Counting
 |  |
 | ------- |
@@ -70,6 +71,7 @@ The goal of this repository is to:
 | [0001-two-sum](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1833-maximum-ice-cream-bars](https://github.com/ParasJain2006/LeetCode-Java/tree/master/1833-maximum-ice-cream-bars) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ParasJain2006/LeetCode-Java/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Greedy
 |  |
 | ------- |
