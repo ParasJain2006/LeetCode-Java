@@ -56,6 +56,7 @@ The goal of this repository is to:
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -94,6 +95,7 @@ The goal of this repository is to:
 | [0110-balanced-binary-tree](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0547-number-of-provinces) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -108,4 +110,12 @@ The goal of this repository is to:
 | ------- |
 | [0027-remove-element](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0088-merge-sorted-array) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
