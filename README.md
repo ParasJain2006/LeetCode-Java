@@ -102,6 +102,7 @@ The goal of this repository is to:
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0509-fibonacci-number](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0509-fibonacci-number) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -120,4 +121,16 @@ The goal of this repository is to:
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0547-number-of-provinces) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
