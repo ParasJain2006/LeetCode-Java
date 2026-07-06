@@ -60,6 +60,7 @@ The goal of this repository is to:
 | [0200-number-of-islands](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -79,6 +80,7 @@ The goal of this repository is to:
 | [0200-number-of-islands](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0283-move-zeroes) |
 | [0733-flood-fill](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0994-rotting-oranges) |
 | [1833-maximum-ice-cream-bars](https://github.com/ParasJain2006/LeetCode-Java/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ParasJain2006/LeetCode-Java/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Greedy
@@ -153,4 +155,5 @@ The goal of this repository is to:
 | ------- |
 | [0200-number-of-islands](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
