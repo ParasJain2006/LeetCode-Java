@@ -57,6 +57,7 @@ The goal of this repository is to:
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
@@ -74,6 +75,7 @@ The goal of this repository is to:
 | [0027-remove-element](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0200-number-of-islands](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0283-move-zeroes) |
 | [1833-maximum-ice-cream-bars](https://github.com/ParasJain2006/LeetCode-Java/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ParasJain2006/LeetCode-Java/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -97,6 +99,7 @@ The goal of this repository is to:
 | [0110-balanced-binary-tree](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0547-number-of-provinces) |
 ## Dynamic Programming
 |  |
@@ -118,6 +121,7 @@ The goal of this repository is to:
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
@@ -141,4 +145,8 @@ The goal of this repository is to:
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0231-power-of-two) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
