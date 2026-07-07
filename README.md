@@ -153,6 +153,7 @@ The goal of this repository is to:
 | ------- |
 | [0231-power-of-two](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0509-fibonacci-number) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ParasJain2006/LeetCode-Java/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
 |  |
 | ------- |
