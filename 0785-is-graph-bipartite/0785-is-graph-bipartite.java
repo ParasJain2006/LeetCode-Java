@@ -1,23 +1,20 @@
 class Solution {
     public boolean isBipartite(int[][] graph) {
-        Queue<Integer> q= new LinkedList<>();
-        char[] arr= new char[graph.length];
+        Boolean[] arr= new Boolean[graph.length];
         for(int j=0;j<graph.length;j++){
-            if(arr[j]==0){
-                q.offer(j);
-                arr[j]='r';
-                while(!q.isEmpty()){
-                    int curr=q.poll();
-                    for(int i: graph[curr]){
-                        if(arr[i]!=0 && arr[i]==arr[curr]) return false;
-                        if(arr[i]==0){
-                            if(arr[curr]=='r')arr[i]='b';
-                            else arr[i]='r';
-                            q.add(i);
-                        }
-                    }
-                }
+            if(arr[j]==null){
+              if(!dfs(j,true,graph, arr)) return false;
             }
+        }
+        return true;
+    }
+    boolean dfs(int node,boolean val, int[][] graph, Boolean[] arr){
+        arr[node]=val;
+        for(int x:graph[node]){
+                if(arr[x]==null){
+                    if(!dfs(x,!val, graph, arr)) return false;
+                }
+                else if(arr[x]==val)return false;
         }
         return true;
     }
