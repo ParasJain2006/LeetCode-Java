@@ -85,6 +85,7 @@ The goal of this repository is to:
 | [0283-move-zeroes](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0283-move-zeroes) |
 | [0542-01-matrix](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0733-flood-fill) |
+| [0867-transpose-matrix](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ParasJain2006/LeetCode-Java/tree/master/1020-number-of-enclaves) |
 | [1833-maximum-ice-cream-bars](https://github.com/ParasJain2006/LeetCode-Java/tree/master/1833-maximum-ice-cream-bars) |
@@ -168,6 +169,11 @@ The goal of this repository is to:
 | [0200-number-of-islands](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0733-flood-fill) |
+| [0867-transpose-matrix](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ParasJain2006/LeetCode-Java/tree/master/1020-number-of-enclaves) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
