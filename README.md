@@ -11,17 +11,9 @@ The goal of this repository is to:
 - Maintain consistency through daily practice
 - Track learning and progress over time
 
-### Each solution may include:
+## Note
 
-- Problem Name
-- LeetCode Problem Number
-- Java Solution
-
-## Technologies
-
-- Java
-- Data Structures & Algorithms
-- LeetCode
+This repository is automatically updated using the **LeetHub** browser extension. Accepted solutions are pushed automatically, so the commit history may contain frequent auto-generated commits.
 
 ---
 
