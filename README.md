@@ -23,10 +23,12 @@ This repository is automatically updated using the **LeetHub** browser extension
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0001-two-sum) |
+| [0127-word-ladder](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0127-word-ladder) |
 | [1189-maximum-number-of-balloons](https://github.com/ParasJain2006/LeetCode-Java/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0127-word-ladder) |
 | [0344-reverse-string](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0344-reverse-string) |
 | [1189-maximum-number-of-balloons](https://github.com/ParasJain2006/LeetCode-Java/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ParasJain2006/LeetCode-Java/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -48,6 +50,7 @@ This repository is automatically updated using the **LeetHub** browser extension
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0200-number-of-islands) |
