@@ -2,9 +2,10 @@ class Solution {
     public int shortestPathBinaryMatrix(int[][] grid) {
         Queue<int[]> q= new LinkedList<>();
         if(grid.length==1 && grid[0][0]==0) return 1;
-        if(grid[0][0]==0)q.add(new int[] {1,0,0});
-        int[][] dirs={{-1,1},{0,1},{1,1},{1,0},{1,-1},{0,-1},{-1,-1},{-1,0}};
         boolean[][] visited= new boolean[grid.length][grid.length];
+        if(grid[0][0]==0)q.add(new int[] {1,0,0});
+        visited[0][0] = true;
+        int[][] dirs={{-1,1},{0,1},{1,1},{1,0},{1,-1},{0,-1},{-1,-1},{-1,0}};
         while(!q.isEmpty()){
             int[] x=q.poll();
             int weight=x[0];
