@@ -25,6 +25,7 @@ This repository is automatically updated using the **LeetHub** browser extension
 | [0001-two-sum](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0001-two-sum) |
 | [0127-word-ladder](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0127-word-ladder) |
 | [1189-maximum-number-of-balloons](https://github.com/ParasJain2006/LeetCode-Java/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/ParasJain2006/LeetCode-Java/tree/master/1331-rank-transform-of-an-array) |
 ## String
 |  |
 | ------- |
@@ -87,6 +88,7 @@ This repository is automatically updated using the **LeetHub** browser extension
 | [0867-transpose-matrix](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ParasJain2006/LeetCode-Java/tree/master/1020-number-of-enclaves) |
+| [1331-rank-transform-of-an-array](https://github.com/ParasJain2006/LeetCode-Java/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/ParasJain2006/LeetCode-Java/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ParasJain2006/LeetCode-Java/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Greedy
@@ -97,6 +99,7 @@ This repository is automatically updated using the **LeetHub** browser extension
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0088-merge-sorted-array) |
+| [1331-rank-transform-of-an-array](https://github.com/ParasJain2006/LeetCode-Java/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/ParasJain2006/LeetCode-Java/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
 |  |
