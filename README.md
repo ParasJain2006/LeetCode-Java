@@ -64,6 +64,7 @@ This repository is automatically updated using the **LeetHub** browser extension
 | [0802-find-eventual-safe-states](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ParasJain2006/LeetCode-Java/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/ParasJain2006/LeetCode-Java/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Binary Tree
 |  |
 | ------- |
@@ -88,6 +89,7 @@ This repository is automatically updated using the **LeetHub** browser extension
 | [0867-transpose-matrix](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ParasJain2006/LeetCode-Java/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/ParasJain2006/LeetCode-Java/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1331-rank-transform-of-an-array](https://github.com/ParasJain2006/LeetCode-Java/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/ParasJain2006/LeetCode-Java/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ParasJain2006/LeetCode-Java/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -184,6 +186,7 @@ This repository is automatically updated using the **LeetHub** browser extension
 | [0867-transpose-matrix](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ParasJain2006/LeetCode-Java/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/ParasJain2006/LeetCode-Java/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Simulation
 |  |
 | ------- |
