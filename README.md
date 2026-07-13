@@ -65,6 +65,7 @@ This repository is automatically updated using the **LeetHub** browser extension
 | [0994-rotting-oranges](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ParasJain2006/LeetCode-Java/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ParasJain2006/LeetCode-Java/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/ParasJain2006/LeetCode-Java/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -91,6 +92,7 @@ This repository is automatically updated using the **LeetHub** browser extension
 | [1020-number-of-enclaves](https://github.com/ParasJain2006/LeetCode-Java/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ParasJain2006/LeetCode-Java/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1331-rank-transform-of-an-array](https://github.com/ParasJain2006/LeetCode-Java/tree/master/1331-rank-transform-of-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/ParasJain2006/LeetCode-Java/tree/master/1631-path-with-minimum-effort) |
 | [1833-maximum-ice-cream-bars](https://github.com/ParasJain2006/LeetCode-Java/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ParasJain2006/LeetCode-Java/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Greedy
@@ -123,6 +125,7 @@ This repository is automatically updated using the **LeetHub** browser extension
 | [0785-is-graph-bipartite](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/ParasJain2006/LeetCode-Java/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/ParasJain2006/LeetCode-Java/tree/master/1631-path-with-minimum-effort) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -134,6 +137,7 @@ This repository is automatically updated using the **LeetHub** browser extension
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0700-search-in-a-binary-search-tree) |
+| [1631-path-with-minimum-effort](https://github.com/ParasJain2006/LeetCode-Java/tree/master/1631-path-with-minimum-effort) |
 ## Two Pointers
 |  |
 | ------- |
@@ -149,6 +153,7 @@ This repository is automatically updated using the **LeetHub** browser extension
 | [0547-number-of-provinces](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/ParasJain2006/LeetCode-Java/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/ParasJain2006/LeetCode-Java/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -187,6 +192,7 @@ This repository is automatically updated using the **LeetHub** browser extension
 | [0994-rotting-oranges](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ParasJain2006/LeetCode-Java/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ParasJain2006/LeetCode-Java/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/ParasJain2006/LeetCode-Java/tree/master/1631-path-with-minimum-effort) |
 ## Simulation
 |  |
 | ------- |
@@ -197,4 +203,8 @@ This repository is automatically updated using the **LeetHub** browser extension
 | [0207-course-schedule](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0802-find-eventual-safe-states) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/ParasJain2006/LeetCode-Java/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
