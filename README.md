@@ -207,4 +207,8 @@ This repository is automatically updated using the **LeetHub** browser extension
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/ParasJain2006/LeetCode-Java/tree/master/1631-path-with-minimum-effort) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/ParasJain2006/LeetCode-Java/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
