@@ -61,6 +61,7 @@ This repository is automatically updated using the **LeetHub** browser extension
 | [0547-number-of-provinces](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ParasJain2006/LeetCode-Java/tree/master/1020-number-of-enclaves) |
@@ -123,6 +124,7 @@ This repository is automatically updated using the **LeetHub** browser extension
 | [0547-number-of-provinces](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/ParasJain2006/LeetCode-Java/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/ParasJain2006/LeetCode-Java/tree/master/1631-path-with-minimum-effort) |
@@ -133,6 +135,7 @@ This repository is automatically updated using the **LeetHub** browser extension
 | [0124-binary-tree-maximum-path-sum](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0509-fibonacci-number](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0542-01-matrix) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -161,6 +164,7 @@ This repository is automatically updated using the **LeetHub** browser extension
 | [0210-course-schedule-ii](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0802-find-eventual-safe-states) |
 ## Math
 |  |
@@ -206,9 +210,14 @@ This repository is automatically updated using the **LeetHub** browser extension
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/ParasJain2006/LeetCode-Java/tree/master/1631-path-with-minimum-effort) |
 ## Enumeration
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/ParasJain2006/LeetCode-Java/tree/master/1291-sequential-digits) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ParasJain2006/LeetCode-Java/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
